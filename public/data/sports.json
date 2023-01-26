@@ -1,0 +1,862 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "c7tFNYr0SPLv8jJrdFZXPSc0MiU",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dYOE02G741qEA_k2sYywdfC3E9E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rm0gp2853os"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-23T15:12:59Z",
+        "channelId": "UCFL1sCAksD6_7JIZwwHcwjQ",
+        "title": "[하이라이트] 장원삼, 쌀쌀해지는 날씨에는 이 남자가 활약한다🍁 (vs 한일장신대 1차전) | JTBC 230123 방송",
+        "description": "[하이라이트] 장원삼, 쌀쌀해지는 날씨에는 이 남자가 활약한다   (vs 한일장신대 1차전) #최강야구 #최강몬스터즈 #경기하이라이트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rm0gp2853os/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rm0gp2853os/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rm0gp2853os/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JTBC Entertainment",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-23T15:12:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RWU4UMEO5jfETR7QZg-3-GYyM8w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fLUN7TD3K8w"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-23T15:12:36Z",
+        "channelId": "UCFL1sCAksD6_7JIZwwHcwjQ",
+        "title": "[하이라이트] 믿고 맡기는 4번 타자 이대호 👉 수비까지 완.벽✨ (vs 한일장신대 1차전) | JTBC 230123 방송",
+        "description": "[하이라이트] 믿고 맡기는 4번 타자 이대호 수비까지 완.벽✨ (vs 한일장신대 1차전) #최강야구 #최강몬스터즈 #경기하이라이트 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fLUN7TD3K8w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fLUN7TD3K8w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fLUN7TD3K8w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JTBC Entertainment",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-23T15:12:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xaQOtIc26wXXUKtgn9DnIjeysUA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2NK11-ZOAFk"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-23T05:00:01Z",
+        "channelId": "UCtm_QoN2SIxwCE-59shX7Qg",
+        "title": "[22/23 PL 21R] 맨시티 vs 울버햄튼 홀란드 주요장면",
+        "description": "맨체스터 시티 vs 울버햄튼 엘링 홀란드 주요장면 SPOTV NOW로 H/L 시청하기 (무료) ☞ https://bit.ly/3D5oq4u.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2NK11-ZOAFk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2NK11-ZOAFk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2NK11-ZOAFk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SPOTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-23T05:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_aPa8hBvHHq-rqfH6YVo1alybQc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VmJ5xKlgXgw"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-20T05:00:12Z",
+        "channelId": "UCtm_QoN2SIxwCE-59shX7Qg",
+        "title": "[22/23 PL 7R] 맨시티 vs 토트넘 마레즈 주요장면",
+        "description": "맨시티 vs 토트넘 마레즈 주요장면 SPOTV NOW로 H/L 시청하기 (무료) ☞ https://bit.ly/3QTVIcp.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VmJ5xKlgXgw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VmJ5xKlgXgw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VmJ5xKlgXgw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SPOTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-20T05:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6Ao86COUaNdb1eakaPAEBOm0v8U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OSEFivkqPtc"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-21T02:00:06Z",
+        "channelId": "UCUQVGXF4U-PupGCPdIRX4Qw",
+        "title": "64경기 172골 다 돌려봤습니다...2022 카타르 월드컵 베스트 골 TOP 10 / 스포츠머그",
+        "description": "설 연휴를 맞이해 스포츠머그에서 2022 카타르 월드컵 결산을 준비했습니다. 첫 번째 순서로 카타르를 수놓은 원더골들을 모았습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OSEFivkqPtc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OSEFivkqPtc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OSEFivkqPtc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "스포츠머그 - SPORTSMUG",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-21T02:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "S-FjkMKVYyzPWvBF8GeJQ6S1F7M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dBGPOjnqjMw"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-23T02:02:34Z",
+        "channelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
+        "title": "[월드컵 하이라이트] 한 방에 몰아보기..&#39;축구의 신&#39; 잡은 &#39;모래바람&#39; 경기 주요 장면 (2022.11.23/뉴스투데이/MBC)",
+        "description": "'축구의 신' 잡은 '모래바람'‥경기 주요 장면 (2022.11.23/뉴스투데이/MBC) #카타르월드컵 #경기영상 #아르헨티나.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dBGPOjnqjMw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dBGPOjnqjMw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dBGPOjnqjMw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MBCNEWS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-23T02:02:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5f7UKrXOHk-HzdwUSbD-1ys0raQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cyErSeCHXzU"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-23T00:49:51Z",
+        "channelId": "UChJ1aZwVkgWAUZqYGYDOWgg",
+        "title": "[PGA투어] FR 하이라이트 l 아메리칸 익스프레스",
+        "description": "PGA TOUR 생중계는 JTBC GOLF&SPORTS, LPGA 생중계는 JTBC GOLF 채널에서 시청하실 수 있습니다. 00:00 FR 하이라이트 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cyErSeCHXzU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cyErSeCHXzU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cyErSeCHXzU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JTBC GOLF",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-23T00:49:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7LxWNIKtkOA1RHH7bqfSJCYXBwA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "StB8YNK42Vo"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-16T15:38:24Z",
+        "channelId": "UCFL1sCAksD6_7JIZwwHcwjQ",
+        "title": "[하이라이트] &#39;무조건 오주원&#39; 낭만 투수의 퀄리티스타트로 2연속 콜드 승 달성^_^v (vs 원광대 2차전) | 최강야구 | JTBC 230116 방송",
+        "description": "[하이라이트] '무조건 오주원' 낭만 투수의 퀄리티스타트로 2연속 콜드 승 달성^_^v (vs 원광대 2차전) #최강야구 #최강몬스터즈 #경기 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/StB8YNK42Vo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/StB8YNK42Vo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/StB8YNK42Vo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JTBC Entertainment",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-16T15:38:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uWDOw1XrvA2wCN2Dn4N6l0hkcpY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2UKC2l9f6SA"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-03T01:00:01Z",
+        "channelId": "UCYRrUD5v5j_Ei8sKOo7mhoQ",
+        "title": "9% 확률을 뚫어버린 태극전사! 16강 길목의 모든 순간들!!!",
+        "description": "대한민국이 카타르 월드컵 16강에 진출했습니다. H조 2위! 1승 1무 1패! 갖은 악조건 속에서 9%의 확률을 뚫어버린 태극전사! 오는 6 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2UKC2l9f6SA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2UKC2l9f6SA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2UKC2l9f6SA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "엠빅뉴스",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-03T01:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZuAlA6SepoDNvuuhItn8uGn3wto",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9k4v3Zz1EmU"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-12T05:01:20Z",
+        "channelId": "UCFL1sCAksD6_7JIZwwHcwjQ",
+        "title": "[경기 하이라이트] 추석 계획✔️ 방구석 1열에 앉아 최강 몬스터즈 경기 정주행(‘•̀ ▽ •́ )φ",
+        "description": "[경기 하이라이트] 추석 계획✔️ 방구석 1열에 앉아 최강 몬스터즈 경기 정주행('•̀ ▽ •́ )φ #최강야구 #최강몬스터즈 #경기하이라이트 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9k4v3Zz1EmU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9k4v3Zz1EmU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9k4v3Zz1EmU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JTBC Entertainment",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-12T05:01:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IZkMqkdO5BuZoiR9siI9TCAr-W4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QgJgV2cze-I"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-17T09:00:09Z",
+        "channelId": "UC7YF5mRzbnmiKREOGsKUJTg",
+        "title": "한방에 보내버리는 팀스턴건 고석현 선수의 경기 하이라이트",
+        "description": "엔젤스파이팅챔피언십(AFC)은 오는 10월 15일에 공식 넘버링 대회인 AFC 17을 서울 신도림 테크노 마트에서 개최한다. AFC 17의 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QgJgV2cze-I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QgJgV2cze-I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QgJgV2cze-I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AFC엔젤스파이팅 챔피언십",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-17T09:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hkjKyJU54Ar3wGMJ0RRz6a2-Sj8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yk2WKOVvRY0"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-02T15:36:31Z",
+        "channelId": "UCFL1sCAksD6_7JIZwwHcwjQ",
+        "title": "[하이라이트] 유희관 오늘 전투력 Lv.99999↗ 전성기 뺨치는 구위 뽐내는 중🔥 (vs 다이노스 2차전) | 최강야구 | JTBC 230102 방송",
+        "description": "[하이라이트] 유희관 오늘 전투력 Lv.99999↗ 전성기 뺨치는 구위 뽐내는 중   (vs 다이노스 2차전) #최강야구 #최강몬스터즈 #경기 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yk2WKOVvRY0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yk2WKOVvRY0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yk2WKOVvRY0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JTBC Entertainment",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-02T15:36:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ttXv9HmxDCs8PKXGvYj0FSBNLcw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4WMxRKgTKho"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-22T01:06:58Z",
+        "channelId": "UChJ1aZwVkgWAUZqYGYDOWgg",
+        "title": "[PGA투어] 3R 하이라이트 l 아메리칸 익스프레스",
+        "description": "PGA TOUR 생중계는 JTBC GOLF&SPORTS, LPGA 생중계는 JTBC GOLF 채널에서 시청하실 수 있습니다. 00:00 3R 하이라이트 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4WMxRKgTKho/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4WMxRKgTKho/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4WMxRKgTKho/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JTBC GOLF",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-22T01:06:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "E2XZ8Nzb21-JM1S_zfwUI2kr8sM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Uu399Gd9BDU"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-02T15:00:27Z",
+        "channelId": "UCjn-VbcIkAeXQKCmLJV8YwQ",
+        "title": "브라질 전 하이라이트 | 2022 축구 국가대표 평가전 대한민국 vs 브라질 하이라이트 | 디지털 독점 생중계 | 쿠팡플레이 | 쿠팡",
+        "description": "대한민국 1 - 5 브라질 2022 축구 국가대표 평가전 하이라이트 더 보고 싶다면? 지금 쿠팡플레이에서 확인하기!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Uu399Gd9BDU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Uu399Gd9BDU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Uu399Gd9BDU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "쿠팡플레이 Coupang Play",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-02T15:00:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XAPUryKScPdUHhQPUONw2Rgfc4k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "75giGQeyidU"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-12T23:00:00Z",
+        "channelId": "UCpjOmwiy88a9EV3Rv8ukJgw",
+        "title": "대한민국 VS 우루과이 : 친선경기 하이라이트 - 2018.10.12",
+        "description": "대한축구협회 공식 채널 대한민국 축구 국가대표팀 https://www.facebook.com/KoreaFootballTeam 페이스북 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/75giGQeyidU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/75giGQeyidU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/75giGQeyidU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KFATV_대한민국 축구 국가대표팀",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-10-12T23:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ETbgyfIlEYEEjddkLEAvyjzK_Ds",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "32A8Ok_8LRM"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-04T13:47:40Z",
+        "channelId": "UCcQTRi69dsVYHN3exePtZ1A",
+        "title": "[모아보기] &#39;혼돈의 H조&#39;에서 16강 진출하기! 대한민국 vs 우루과이, 대한민국 vs 가나, 대한민국 vs 포르투갈/조별리그 3경기 모음.zip/2022년12월4일(일)/KBS",
+        "description": "대한민국을 이긴 가나를 이긴 우루과이를 이긴 포르투갈을 이긴 대한민국 대표팀, '끝날 때까지 끝난 게 아니었던' H조에서 후회없는 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/32A8Ok_8LRM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/32A8Ok_8LRM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/32A8Ok_8LRM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KBS News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-04T13:47:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tc_RFYq8zXAUx59D8gIw9Hc-Ykg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ajUwYwmLDmQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-15T02:37:27Z",
+        "channelId": "UCk_Ymtay-8Epn0mB_37Htdg",
+        "title": "치열했던 한일전 축구 전경기 하이라이트 영상. 1996년 이후, 중요 경기에서는 이긴 한국. 한국과 싸우면 일본 시청율 최고 기록하며, 사무라이 외치던 일본 축구. 당시 경기 내용",
+        "description": "치열한 축구 라이벌, 한국과 일본 축구의 명승부 변천사 (24 경기 하이라이트 영상) # 최근 10년간 전적 (3승1무 3패) 00:06 1996.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ajUwYwmLDmQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ajUwYwmLDmQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ajUwYwmLDmQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "스포츠몽땅",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-15T02:37:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "j3cStSffBX3dTO9a49o2icqAMqM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uBWpIolycdU"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-14T20:14:11Z",
+        "channelId": "UCk_Ymtay-8Epn0mB_37Htdg",
+        "title": "튀니지에 참패 당한 일본 경기 하이라이트. 유럽파 주전 총출동하고도 엉망 수준의 골결정력과 허술한 수비 민낯 드러낸 경기. 손흥민이 부러운 일본 축구팬들.",
+        "description": "일본 vs 튀니지 A매치 경기 하이라이트 영상. 우리나라가 이집트를 4:1로 대승한 어제, 일본은 월드컵 출전국인 튀니지와 A매치를 가졌 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uBWpIolycdU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uBWpIolycdU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uBWpIolycdU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "스포츠몽땅",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-14T20:14:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iAE_6m3BeOeOr0d9F1A73K9g4do",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mYUxmfpoGT4"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-09T15:41:19Z",
+        "channelId": "UCFL1sCAksD6_7JIZwwHcwjQ",
+        "title": "[하이라이트] 드디어 야신이 떴다↗ 김성근 감독의 특훈으로 &#39;진짜 야구&#39;하는 몬스터즈⚾ (vs 원광대 1차전) | 최강야구 | JTBC 230109 방송",
+        "description": "[하이라이트] 드디어 야신이 떴다↗ 김성근 감독의 특훈으로 '진짜 야구'하는 몬스터즈⚾ (vs 원광대 1차전) #최강야구 #최강몬스터즈 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mYUxmfpoGT4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mYUxmfpoGT4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mYUxmfpoGT4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JTBC Entertainment",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-09T15:41:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aAEadO60SImYYtzXM9trc0n4SHc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "d3uTPwEYQ8w"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-20T11:30:12Z",
+        "channelId": "UCw1DsweY9b2AKGjV4kGJP1A",
+        "title": "KT vs. T1 | 매치5 하이라이트 | 01.20 | 2023 LCK 스프링 스플릿",
+        "description": "타임라인 00:00 Game1 06:15 Game1 분석데스크 11:31 Game2 19:57 Game2 분석데스크 25:34 Game3 31:15 Game3 분석데스크 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d3uTPwEYQ8w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/d3uTPwEYQ8w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d3uTPwEYQ8w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LCK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-20T11:30:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AWR-TtC-uAh77D_t1s6A6jEA4Yw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "urrn1lJ0RnA"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-03T01:00:15Z",
+        "channelId": "UCcQTRi69dsVYHN3exePtZ1A",
+        "title": "[하이라이트 : 대한민국 vs 포르투갈] 한국, 포르투갈에 극적인 역전승...극적인 16강행 / 16강전 상대는 브라질 / KBS 2022 카타르월드컵 2022.12.03.",
+        "description": "카타르 월드컵에서 조별리그 마지막 경기에서 대한민국이 기적적으로 16강에 올랐습니다. 대한민국은 포르투갈을 극적으로 물리치고 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/urrn1lJ0RnA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/urrn1lJ0RnA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/urrn1lJ0RnA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KBS News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-03T01:00:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VQak1Cfo4CUL5SsXp0NRnd4xxRA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hPKgeYbvGTE"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-02T15:36:19Z",
+        "channelId": "UCFL1sCAksD6_7JIZwwHcwjQ",
+        "title": "[하이라이트] 한 점도 내줄 수 없다(ง🔥Д🔥)ง! 가을남자 장원삼 드.디.어. 등판↗ (vs 다이노스 2차전) | 최강야구 | JTBC 230102 방송",
+        "description": "[하이라이트] 한 점도 내줄 수 없다(ง  Д  )ง! 가을남자 장원삼 드.디.어. 등판↗ (vs 다이노스 2차전) #최강야구 #최강몬스터즈 #경기 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hPKgeYbvGTE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hPKgeYbvGTE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hPKgeYbvGTE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JTBC Entertainment",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-02T15:36:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0PQWBOQQM9ABzo9_k8_jFPmqRoU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KBbawbW2fb8"
+      },
+      "snippet": {
+        "publishedAt": "2021-02-05T09:00:07Z",
+        "channelId": "UC7YF5mRzbnmiKREOGsKUJTg",
+        "title": "[AFC] 울버린 배명호 경기 하이라이트",
+        "description": "AFC3 겐타다카기 vs 배명호 AFC6 클레버 소우자 vs 배명호 AFC8 나카지마 유토 vs 배명호 #엔젤스파이팅​​ #AFC​​ #종합 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KBbawbW2fb8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KBbawbW2fb8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KBbawbW2fb8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AFC엔젤스파이팅 챔피언십",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-02-05T09:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rDVurTYu0XdtEvwdpq3gW7i4Ye4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8eS6kW3o42s"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-09T15:41:41Z",
+        "channelId": "UCFL1sCAksD6_7JIZwwHcwjQ",
+        "title": "[하이라이트] 신입사원에게서 노련美가 느껴진다(๑•᎑＜๑)ｰ☆ 이대호의 끝내기 안타로 콜드승↗ (vs 원광대 1차전) | 최강야구 | JTBC 230109 방송",
+        "description": "[하이라이트] 신입사원에게서 노련美가 느껴진다(๑•᎑＜๑)ｰ☆ 이대호의 끝내기 안타로 콜드승↗ (vs 원광대 1차전) #최강야구 #최강 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8eS6kW3o42s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8eS6kW3o42s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8eS6kW3o42s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JTBC Entertainment",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-09T15:41:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aZzLNifbIDhenkiKQFAVip3fqqQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-waP1DK_cjc"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-30T14:00:00Z",
+        "channelId": "UCDIB1DOwPPe58M2fHPyVVDA",
+        "title": "[청춘야구단 - 경기 하이라이트] 5라운드 SSG 랜더스전 하이라이트",
+        "description": "청춘야구단 #ssg랜더스 #하이라이트 일시: 6월 16일 대진: 청춘야구단 vs SSG 랜더스 장소: 강화 SSG 퓨처스필드 본.방.사.수 매주 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-waP1DK_cjc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-waP1DK_cjc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-waP1DK_cjc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KBS 스포츠",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-30T14:00:00Z"
+      }
+    }
+  ]
+}

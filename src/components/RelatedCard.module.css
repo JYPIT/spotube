@@ -1,0 +1,40 @@
+.listItem {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+  overflow: hidden;
+  border-radius: 1rem;
+  cursor: pointer;
+}
+.listItem img {
+  width: 45%;
+  margin-right: 1rem;
+}
+
+.relatedTitle {
+}
+
+.relatedTitle li {
+  font-weight: 300;
+  font-size: small;
+}
+.relatedTitle :first-child {
+  font-size: medium;
+  font-weight: 500;
+  margin-bottom: 0.5rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  line-height: 20px;
+  max-height: 50px;
+  -webkit-line-clamp: 2; /* 표시하고자 하는 라인 수 */
+  -webkit-box-orient: vertical;
+}
+
+.relatedTitle :nth-child(n + 2) {
+  opacity: 0.8;
+  margin-bottom: 0.2rem;
+}
+.relatedTitle :nth-child(2):hover {
+  opacity: 1;
+}

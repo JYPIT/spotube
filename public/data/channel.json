@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "q4hnguGHcI6mO-DIb6jg4Yf_2kY",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "pZaZ3A25IRJnjZDtJsZox5picPc",
+      "id": "UCBJeMCIeLQos7wacox4hmLQ",
+      "snippet": {
+        "title": "Serie A",
+        "description": "Welcome to the Official Serie A channel. Over the season, we are going to produce and upload more than 5000 clips, updated everyday with Official Highlights, Magazine & Compilations (such as Best Saves, Numbers, Top 11, etc), Exclusive Interviews, Press Conferences and much more. If you are a football fan and you want to be part of our community don't forget to subscribe to Serie A channel.",
+        "customUrl": "@seriea",
+        "publishedAt": "2012-10-30T13:54:30Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/9mZKUej5L_BhqlKkRIjtOTmAb_e8LmxCOvETV_BIRhQirO0lMybRF8rTlo7au85r2-gsIxbDPw=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/9mZKUej5L_BhqlKkRIjtOTmAb_e8LmxCOvETV_BIRhQirO0lMybRF8rTlo7au85r2-gsIxbDPw=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/9mZKUej5L_BhqlKkRIjtOTmAb_e8LmxCOvETV_BIRhQirO0lMybRF8rTlo7au85r2-gsIxbDPw=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Serie A",
+          "description": "Welcome to the Official Serie A channel. Over the season, we are going to produce and upload more than 5000 clips, updated everyday with Official Highlights, Magazine & Compilations (such as Best Saves, Numbers, Top 11, etc), Exclusive Interviews, Press Conferences and much more. If you are a football fan and you want to be part of our community don't forget to subscribe to Serie A channel."
+        },
+        "country": "IT"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUBJeMCIeLQos7wacox4hmLQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "3216319953",
+        "subscriberCount": "8610000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "24471"
+      }
+    }
+  ]
+}

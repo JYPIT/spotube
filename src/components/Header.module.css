@@ -1,0 +1,48 @@
+.nav {
+  position: sticky;
+  z-index: 1;
+  top: 0;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: 4rem;
+  padding: 0 1rem;
+  border-bottom: 1px solid;
+  margin-bottom: 1rem;
+  background-color: var(--bg-color);
+}
+
+.searchForm {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 2rem;
+}
+
+.searchInput {
+  width: 30%;
+  padding: 0 1rem;
+  outline: none;
+}
+
+.logoLink {
+  display: flex;
+  align-items: center;
+  color: var(--text-color);
+  font-size: 2rem;
+  text-decoration: none;
+}
+.logoIcon {
+  font-size: 3rem;
+  fill: var(--brand-color);
+  margin-right: 0.5rem;
+  opacity: 0.8;
+}
+.logoIcon:hover {
+  opacity: 1;
+}
+
+.searchIcon {
+  background-color: transparent;
+  border: none;
+}

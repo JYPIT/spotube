@@ -1,0 +1,862 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "p0its_MmDHTzv01_4_El33WtLyU",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8oQrEWh0MI5O-JHRtNfo6EakNtg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6QJ0Ilclg94"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-24T22:19:44Z",
+        "channelId": "UCBJeMCIeLQos7wacox4hmLQ",
+        "title": "Lazio-Milan 4-0 | Lazio put FOUR past Milan : Goals &amp; Highlights | Serie A 2022/23",
+        "description": "Lazio were in imperious form at the Stadio Olimpico as they put four goals past Milan on Tuesday night thanks to goals from ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6QJ0Ilclg94/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6QJ0Ilclg94/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6QJ0Ilclg94/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Serie A",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-24T22:19:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "B9CvKaO3fBkGgSfIvpApzXKSvTo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-wa5LIUwL5E"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-23T22:35:42Z",
+        "channelId": "UCBJeMCIeLQos7wacox4hmLQ",
+        "title": "Inter-Empoli 0-1 | Empoli stun Inter at San Siro: Goal &amp; Highlights | Serie A 2022/23",
+        "description": "Baldanzi scores the winner in a shocking Empoli win, their first at the home of the Nerazzurri since the 2003/04 season | Serie A ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-wa5LIUwL5E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-wa5LIUwL5E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-wa5LIUwL5E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Serie A",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-23T22:35:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rB6Jr1_iivnA6QaiyDDXupq70_8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3l172_SIYK8"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-22T22:21:57Z",
+        "channelId": "UCBJeMCIeLQos7wacox4hmLQ",
+        "title": "Juventus-Atalanta 3-3 | A six-goal thriller in Turin: Goals &amp; Highlights | Serie A 2022/23",
+        "description": "An edge-of-the-seat encounter unravelled at the Allianz Stadium as Lookman scored twice to make it five straight games without ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3l172_SIYK8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3l172_SIYK8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3l172_SIYK8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Serie A",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-22T22:21:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Qymq8z-oeKC1524-NfAb5TEiF7A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "n9y-6QxrB44"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-23T20:37:06Z",
+        "channelId": "UCBJeMCIeLQos7wacox4hmLQ",
+        "title": "Bologna-Cremonese 1-1 | The spoils are shared in Bologna: Goals &amp; Highlights | Serie A 2022/23",
+        "description": "Coach Ballardini's first match at the helm of Cremonese ends in a draw that puts and end to a 4-game losing streak for the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n9y-6QxrB44/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n9y-6QxrB44/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n9y-6QxrB44/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Serie A",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-23T20:37:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FZe25_ulZU2M-zuglQ0CKeq7pRU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "E1tM65TrRKY"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-15T22:22:02Z",
+        "channelId": "UCBJeMCIeLQos7wacox4hmLQ",
+        "title": "Roma-Fiorentina 2-0 | Dybala at the double! Goals &amp; Highlights | Serie A 2022/23",
+        "description": "An outstanding performance from Roma's attacking duo as Abraham provides twice for 'La Joya' to dispatch ten-men Fiorentina ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E1tM65TrRKY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E1tM65TrRKY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E1tM65TrRKY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Serie A",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-15T22:22:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RLdnM2fjL39ycjcsBpf5No3Yycs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "W1L2Z5nMu68"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-22T16:35:56Z",
+        "channelId": "UCBJeMCIeLQos7wacox4hmLQ",
+        "title": "Monza-Sassuolo 1-1 | Monza extend their unbeaten run: Goals &amp; Highlights | Serie A 2022/23",
+        "description": "The hosts extend their unbeaten streak to 5 games thanks to Caprari's third goal in his last two outings | Serie A 2022/23 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W1L2Z5nMu68/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W1L2Z5nMu68/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W1L2Z5nMu68/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Serie A",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-22T16:35:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aquvYsE2jAVyRgLqNtbZ_xplyxQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "C4htjVFlsYs"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-13T22:33:02Z",
+        "channelId": "UCBJeMCIeLQos7wacox4hmLQ",
+        "title": "Napoli-Juventus 5-1 | Absolute scenes in Naples! Goals &amp; Highlights | Serie A 2022/23",
+        "description": "An unforgettable night for Napoli as they annihilate Juventus at the Diego Maradona Stadium, defeating the Bianconeri by a 4-gol ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C4htjVFlsYs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C4htjVFlsYs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C4htjVFlsYs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Serie A",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-13T22:33:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VcCHLD9lfnWizvKzQWr2P4tuFoI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qw28cVwnyQ0"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-22T19:43:03Z",
+        "channelId": "UCBJeMCIeLQos7wacox4hmLQ",
+        "title": "Spezia-Roma 0-2 | Abraham scores beauty in Roma away win: Goals &amp; Highlights | Serie A 2022/23",
+        "description": "The Englishman made the most of a mistake from the Spezia defence and rounded off Roma's win at the Picco Stadium with his ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qw28cVwnyQ0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qw28cVwnyQ0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qw28cVwnyQ0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Serie A",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-22T19:43:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gLfE9YUdZMLJWAPeXQCAJyIblpc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Z2c8XS7ku34"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-08T22:19:20Z",
+        "channelId": "UCBJeMCIeLQos7wacox4hmLQ",
+        "title": "Milan-Roma 2-2 | Abraham scores in injury time! Goals &amp; Highlights | Serie A 2022/23",
+        "description": "Against the run of play, Roma scored twice in the last 6 minutes at San Siro to deny Milan the win after the Rossoneri dominated ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Z2c8XS7ku34/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Z2c8XS7ku34/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Z2c8XS7ku34/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Serie A",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-08T22:19:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "E_2X9__UltOGLCrIX1oXZAe2gdQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iI7ovcGZKZY"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-15T19:43:47Z",
+        "channelId": "UCBJeMCIeLQos7wacox4hmLQ",
+        "title": "Atalanta-Salernitana 8-2 | Atalanta rip Salernitana to shreds: Goals &amp; Highlights | Serie A 2022/23",
+        "description": "Unbelievable scenes at the Gewiss Stadium as hosts Atalanta record their highest scoring Serie A game in the club's history ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iI7ovcGZKZY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iI7ovcGZKZY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iI7ovcGZKZY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Serie A",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-15T19:43:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZCB8ts_9JNdTjf4qRdxcqHij5q4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pv2uW_UiZFA"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-21T16:33:11Z",
+        "channelId": "UCBJeMCIeLQos7wacox4hmLQ",
+        "title": "Verona-Lecce 2-0 | Lazovic seals Verona’s second win in three: Goals &amp; Highlights | Serie A 2022/23",
+        "description": "The Serbian winger doubled Verona's lead after Depaoli's opener, securing a vital win for the Gialloblù | Serie A 2022/23 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pv2uW_UiZFA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pv2uW_UiZFA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pv2uW_UiZFA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Serie A",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-21T16:33:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-fDPdC0fBGot-Y6aj2BpBRn3iGo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VpaHxyMW7I4"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-21T22:26:07Z",
+        "channelId": "UCBJeMCIeLQos7wacox4hmLQ",
+        "title": "Fiorentina-Torino 0-1 | Miranchuk sinks La Viola with stunner: Goal &amp; Highlights | Serie A 2022/23",
+        "description": "After the shocking defeat at home to Spezia last time out, Toro come away with a crucial win from the Artemio Franchi Stadium ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VpaHxyMW7I4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VpaHxyMW7I4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VpaHxyMW7I4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Serie A",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-21T22:26:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gB9hSmGha-vOickCnE4hT9Apy2E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7bSYiVzyK_M"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-18T22:13:18Z",
+        "channelId": "UCBJeMCIeLQos7wacox4hmLQ",
+        "title": "Milan-Inter 0-3 | Inter triumph in Riyadh! Goals &amp; Highlights | EA Sports Supercup 2023",
+        "description": "The Nerazzurri clinch their 7th Supercup with a commanding performance at the King Fahd Stadium in Saudi Arabia, avenging ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7bSYiVzyK_M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7bSYiVzyK_M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7bSYiVzyK_M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Serie A",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-18T22:13:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_wzfhFmS4jJH9hOj5zldR75yhCw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DUeTCe1j9Co"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-14T19:33:47Z",
+        "channelId": "UCBJeMCIeLQos7wacox4hmLQ",
+        "title": "Lecce-Milan 2-2 | Milan held by heroic Lecce: Goals &amp; Highlights | Serie A 2022/23",
+        "description": "An incredible display from the hosts who went 2-0 up in the first half before Leao and Calabria levelled the scoring for Milan ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DUeTCe1j9Co/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DUeTCe1j9Co/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DUeTCe1j9Co/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Serie A",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-14T19:33:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "O4bUhASInLiU4TgIJ4QBP33iRZs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "a2vqotIiujk"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-21T19:58:51Z",
+        "channelId": "UCBJeMCIeLQos7wacox4hmLQ",
+        "title": "Salernitana-Napoli 0-2 | Napoli continue their winning streak: Goals &amp; Highlights | Serie A 2022/23",
+        "description": "Spalletti's men cruise to a comfortable win in Salerno as captain Di Lorenzo opened the scoring with his first of the season before ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a2vqotIiujk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a2vqotIiujk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a2vqotIiujk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Serie A",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-21T19:58:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Oy473O2aCw0-IylVqrqzmbxjVuA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QNcbr0mxUxw"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-22T14:17:07Z",
+        "channelId": "UCBJeMCIeLQos7wacox4hmLQ",
+        "title": "Sampdoria-Udinese 0-1 | Udinese back to winning ways: Goal &amp; Highlights | Serie A 2022/23",
+        "description": "After 10 straight games without a win, Kingsley Ehizibue's first Serie A goal secured all three points for the Friulani, while Samp ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QNcbr0mxUxw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QNcbr0mxUxw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QNcbr0mxUxw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Serie A",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-22T14:17:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IShfeVBNnOIlOy3DJT6RQ1V_kac",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "n2ETBHim8Cg"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-19T22:38:34Z",
+        "channelId": "UCBJeMCIeLQos7wacox4hmLQ",
+        "title": "Juventus-Monza 2-1 | Chiesa sends Juve through: Goals &amp; Highlights | Coppa Italia Frecciarossa 22/23",
+        "description": "The Bianconeri avenge their defeat in the league against Monza by sending them crashing out of the Coppa Italia thanks to goals ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n2ETBHim8Cg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n2ETBHim8Cg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n2ETBHim8Cg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Serie A",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-19T22:38:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4AuZ8BcQUIllvZkDacl5Oj-bziw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "w-6mvDjmdko"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-15T16:49:03Z",
+        "channelId": "UCBJeMCIeLQos7wacox4hmLQ",
+        "title": "Udinese-Bologna 1-2 | Bologna come back from behind: Goals &amp; Highlights | Serie A 2022/23",
+        "description": "Udinese took the lead through Beto's opener in a game of two halves, as Bologna came back from behind thanks to goals by ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w-6mvDjmdko/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w-6mvDjmdko/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w-6mvDjmdko/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Serie A",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-15T16:49:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qRmQ1jlLwWjFRqwKtMjNmXgMK-Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "P8h_xOjkB_8"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-14T16:36:33Z",
+        "channelId": "UCBJeMCIeLQos7wacox4hmLQ",
+        "title": "Cremonese-Monza 2-3 | Monza claim win in five-goal thriller: Goals &amp; Highlights | Serie A 2022/23",
+        "description": "An exciting encounter at the Zini Stadium sees Monza claim a crucial win over struggling Cremonese, who are the only side yet to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P8h_xOjkB_8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P8h_xOjkB_8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P8h_xOjkB_8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Serie A",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-14T16:36:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jNoyIdYXxZ0WB24AxxIlLQaHyso",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rGDo8SPidB8"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-07T22:40:36Z",
+        "channelId": "UCBJeMCIeLQos7wacox4hmLQ",
+        "title": "Monza-Inter 2-2 | Inter pegged back in added time: Goals &amp; Highlights | Serie A 2022/23",
+        "description": "An emotion-filled encounter sees Inter's lead vanish in injury time as Darmian and Martinez's goals weren't enough to secure the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rGDo8SPidB8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rGDo8SPidB8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rGDo8SPidB8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Serie A",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-07T22:40:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CQiUQXjbiAlro4W5T94l45hDTIE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PGO1l3t9vpo"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-04T14:21:54Z",
+        "channelId": "UCBJeMCIeLQos7wacox4hmLQ",
+        "title": "Salernitana-Milan 1-2 | Milan off to a flying start to 2023: Goals &amp; Highlights | Serie A 2022/23",
+        "description": "The Rossoneri pick up where they had left off in 2022 with an away win in Salerno thanks to a quick-fire double from Leao and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PGO1l3t9vpo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PGO1l3t9vpo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PGO1l3t9vpo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Serie A",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-04T14:21:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Z9pwjMmzRRknY9NUktNg4tTRNE8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "agxs8Rzu5Qg"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-14T22:21:18Z",
+        "channelId": "UCBJeMCIeLQos7wacox4hmLQ",
+        "title": "Inter-Verona 1-0 | Martinez seals home win for Inter: Goal &amp; Highlights | Serie A 2022/23",
+        "description": "A hard-fought match at San Siro sees the Nerazzurri claim a narrow win over Verona and go par on points with Juventus in the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/agxs8Rzu5Qg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/agxs8Rzu5Qg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/agxs8Rzu5Qg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Serie A",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-14T22:21:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YrMqRYI3QmeknVF1yWBMhxc91c8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DR1s3OrCHP8"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-08T19:35:58Z",
+        "channelId": "UCBJeMCIeLQos7wacox4hmLQ",
+        "title": "Sampdoria-Napoli 0-2 | Napoli back to winning ways: Goals &amp; Highlights | Serie A 2022/23",
+        "description": "Napoli shakes off the defeat at San Siro with three points against Sampdoria thanks to Victor Osimhen and Elijf Elmas | Serie A ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DR1s3OrCHP8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DR1s3OrCHP8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DR1s3OrCHP8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Serie A",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-08T19:35:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "k_PZ-_k9KxGidDHBMgNQzm5hlyk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "exuPRq0gJR4"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-04T22:35:15Z",
+        "channelId": "UCBJeMCIeLQos7wacox4hmLQ",
+        "title": "Inter-Napoli 1-0 | Inter defeat the league leaders : Goal &amp; Highlights | Serie A 2022/23",
+        "description": "A second-half header from Edin Dzeko ends Napoli's unbeaten run meaning the lead at the top of the table stays at just five points ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/exuPRq0gJR4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/exuPRq0gJR4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/exuPRq0gJR4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Serie A",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-04T22:35:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eyOoPKVr__rgQeQ9B-raZCQ2uxw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eDPvnRxohTc"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-17T23:37:29Z",
+        "channelId": "UCBJeMCIeLQos7wacox4hmLQ",
+        "title": "Napoli-Cremonese 6-7 AP | Drama in Naples: Goals &amp; Highlights | Coppa Italia Frecciarossa 2022/23",
+        "description": "Cremonese went through on penalties in the Coppa Italia after a hugely dramatic clash. The Grigiorossi took the game to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eDPvnRxohTc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eDPvnRxohTc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eDPvnRxohTc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Serie A",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-17T23:37:29Z"
+      }
+    }
+  ]
+}

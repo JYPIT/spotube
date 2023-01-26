@@ -1,0 +1,14 @@
+* {
+  list-style: none;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  padding: 1rem 2rem 1rem 3rem;
+}
+
+.listBox {
+  height: 100%;
+}

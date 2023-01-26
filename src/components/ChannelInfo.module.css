@@ -1,0 +1,40 @@
+.infoContainer {
+  display: flex;
+  flex-direction: column;
+  padding: 1rem 1rem;
+}
+.title {
+  font-size: 1.4rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  line-height: 25px;
+  max-height: 50px;
+  -webkit-line-clamp: 1; /* 표시하고자 하는 라인 수 */
+  -webkit-box-orient: vertical;
+  margin-bottom: 0.5rem;
+}
+
+.name {
+  display: flex;
+  align-items: center;
+  margin-bottom: 0.7rem;
+}
+.name img {
+  height: 2.5rem;
+  width: 2.5rem;
+  border-radius: 100%;
+}
+.name span {
+  margin-left: 0.5rem;
+}
+
+.description {
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  background-color: gray;
+  border-radius: 1rem;
+  padding: 1rem 1rem;
+}
