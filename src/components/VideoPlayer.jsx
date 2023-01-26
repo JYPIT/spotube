@@ -14,7 +14,7 @@ export default function VideoPlayer({ video }) {
           width='100%'
           height='100%'
           color='blue'
-          src={`http://www.youtube-nocookie.com/embed/${video.id}?autoplay=1&mute=1`}
+          src={`https://www.youtube-nocookie.com/embed/${video.id}?autoplay=1&mute=1`}
         />
       </article>
       <section className={styles.infoBox}>
