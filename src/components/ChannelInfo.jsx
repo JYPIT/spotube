@@ -4,13 +4,13 @@ import styles from './ChannelInfo.module.css';
 
 export default function ChannelInfo({ id, title, name, des }) {
   const { youtube } = useYoutubeApi();
-  const {
-    data: url,
-    isLoading,
-    error,
-  } = useQuery(['channel', id], () => youtube.channelImage(id), {
-    staleTime: 1000 * 60 * 5,
-  });
+  const { data: url, isLoading } = useQuery(
+    ['channel', id],
+    () => youtube.channelImage(id),
+    {
+      staleTime: 1000 * 60 * 5,
+    }
+  );
 
   return (
     <div className={styles.infoContainer}>

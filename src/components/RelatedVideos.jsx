@@ -6,13 +6,13 @@ import styles from './RelatedVideos.module.css';
 export default function RelatedVideos({ id }) {
   const { youtube } = useYoutubeApi();
 
-  const {
-    data: relatedVideos,
-    isLoading,
-    error,
-  } = useQuery(['related', id], () => youtube.related(id), {
-    staleTime: 1000 * 60 * 5,
-  });
+  const { data: relatedVideos, isLoading } = useQuery(
+    ['related', id],
+    () => youtube.related(id),
+    {
+      staleTime: 1000 * 60 * 5,
+    }
+  );
 
   return (
     <div className={styles.container}>
